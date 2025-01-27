@@ -1,0 +1,14 @@
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.exe
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.deps.json
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.runtimeconfig.json
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.runtimeconfig.dev.json
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.dll
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\bin\Debug\netcoreapp3.1\Lahiye-Back.pdb
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.csproj.AssemblyReference.cache
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.AssemblyInfoInputs.cache
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.AssemblyInfo.cs
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.csproj.CoreCompileInputs.cache
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.dll
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.pdb
+C:\Users\ViP_Technology_BAKU\source\repos\coom\Lahiye-Back\Lahiye-Back\obj\Debug\netcoreapp3.1\Lahiye-Back.genruntimeconfig.cache
